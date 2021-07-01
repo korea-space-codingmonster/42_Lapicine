@@ -1,0 +1,5 @@
+Credentials cache: API:A7CC2C58-F62D-43B6-B7A7-478F6F099F72
+        Principal: napark@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jul 27 19:10:10 2020  Jul 28 05:10:10 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
